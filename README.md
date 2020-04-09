@@ -8,3 +8,5 @@ https://eligiblestore.com/api/covid19id/
 
 To get individual province just add the province at the end of the URL, for example:
 https://eligiblestore.com/api/covid19id/bali/
+
+If no data found it will return code: 404
