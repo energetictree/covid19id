@@ -1,5 +1,5 @@
 # covid19id
-Data Covid-19 per province
+API for Indonesian Data Covid-19 breakdown per province
 
 Data simpilified from https://bnpb-inacovid19.hub.arcgis.com/datasets/covid19-indonesia-per-provinsi/data
 
